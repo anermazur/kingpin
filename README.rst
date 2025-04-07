@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanermazur%2Fkingpin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanermazur%2Fkingpin?ref=badge_shield)
+
 Kingpin: Deployment Automation Engine
 =====================================
 
@@ -22,3 +24,7 @@ Documentation is hosted at `https://kingpin.readthedocs.org <https://kingpin.rea
 .. _doc_status: https://kingpin.readthedocs.org
 .. |pypi_download| image:: https://badge.fury.io/py/kingpin.png
 .. _pypi_download: https://pypi.python.org/pypi/kingpin
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanermazur%2Fkingpin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanermazur%2Fkingpin?ref=badge_large)
